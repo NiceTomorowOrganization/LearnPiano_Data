@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/LearnPiano_Data@main/",
+  "categories": [
+    {
+      "id": "beginners",
+      "title": "For Beginners",
+      "isHidden": false
+    },
+    {
+      "id": "viral",
+      "title": "Viral Songs",
+      "isHidden": false
+    },
+    {
+      "id": "global",
+      "title": "Global Hits",
+      "isHidden": false
+    },
+    {
+      "id": "movies",
+      "title": "Iconic Movie Themes",
+      "isHidden": false
+    },
+    {
+      "id": "ballads",
+      "title": "Emotional Ballads",
+      "isHidden": false
+    },
+    {
+      "id": "romance",
+      "title": "Love & Romance",
+      "isHidden": false
+    },
+    {
+      "id": "classical",
+      "title": "Classical & Timeless",
+      "isHidden": false
+    },
+    {
+      "id": "celebration",
+      "title": "Celebration Time",
+      "isHidden": false
+    },
+    {
+      "id": "inspirational",
+      "title": "Inspirational Vibes",
+      "isHidden": false
+    }
+  ],
+  "songs": [
+    {
+      "id": "twinkle",
+      "title": "Twinkle Twinkle Little Star",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/twinkle.mid",
+      "artwork": "artwork/twinkle.jpg"
+    },
+    {
+      "id": "mary-lamb",
+      "title": "Mary Had a Little Lamb",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/mary-lamb.mid",
+      "artwork": "artwork/mary-lamb.jpg"
+    },
+    {
+      "id": "happy-birthday",
+      "title": "Happy Birthday",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners",
+        "celebration"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/happy-birthday.mid",
+      "artwork": "artwork/happy-birthday.jpg"
+    },
+    {
+      "id": "ode-to-joy",
+      "title": "Ode to Joy",
+      "difficulty": "easy",
+      "categoryIds": [
+        "classical",
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": true,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/ode-to-joy.mid",
+      "artwork": "artwork/ode-to-joy.jpg"
+    },
+    {
+      "id": "row-your-boat",
+      "title": "Row, Row, Row Your Boat",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/row-your-boat.mid",
+      "artwork": "artwork/row-your-boat.jpg"
+    },
+    {
+      "id": "abc-song",
+      "title": "ABC Song",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/abc-song.mid",
+      "artwork": "artwork/abc-song.jpg"
+    },
+    {
+      "id": "baa-baa-black-sheep",
+      "title": "Baa Baa Black Sheep",
+      "difficulty": "hard",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/baa-baa-black-sheep.mid",
+      "artwork": "artwork/baa-baa-black-sheep.jpg"
+    },
+    {
+      "id": "baby-shark",
+      "title": "Baby Shark",
+      "difficulty": "medium",
+      "categoryIds": [
+        "beginners",
+        "viral"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/baby-shark.mid",
+      "artwork": "artwork/baby-shark.jpg"
+    },
+    {
+      "id": "london-bridge",
+      "title": "London Bridge",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/london-bridge.mid",
+      "artwork": "artwork/london-bridge.jpg"
+    },
+    {
+      "id": "jingle-bells",
+      "title": "Jingle Bells",
+      "difficulty": "easy",
+      "categoryIds": [
+        "celebration"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/jingle-bells.mid",
+      "artwork": "artwork/jingle-bells.jpg"
+    },
+    {
+      "id": "little-teapot",
+      "title": "I'm a Little Teapot",
+      "difficulty": "easy",
+      "categoryIds": [
+        "beginners"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/little-teapot.mid",
+      "artwork": "artwork/little-teapot.jpg"
+    },
+    {
+      "id": "if-youre-happy",
+      "title": "If You're Happy",
+      "difficulty": "hard",
+      "categoryIds": [
+        "beginners",
+        "celebration"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/if-youre-happy.mid",
+      "artwork": "artwork/if-youre-happy.jpg"
+    },
+    {
+      "id": "santa-claus",
+      "title": "Santa Claus Is Coming to Town",
+      "difficulty": "easy",
+      "categoryIds": [
+        "celebration"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/santa-claus.mid",
+      "artwork": "artwork/santa-claus.jpg"
+    },
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace",
+      "difficulty": "medium",
+      "categoryIds": [
+        "inspirational"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/amazing-grace.mid",
+      "artwork": "artwork/amazing-grace.jpg"
+    },
+    {
+      "id": "bella-ciao",
+      "title": "Bella Ciao part 1",
+      "difficulty": "medium",
+      "categoryIds": [
+        "viral",
+        "global"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/bella-ciao.mid",
+      "artwork": "artwork/bella-ciao.jpg"
+    },
+    {
+      "id": "daisy-bell",
+      "title": "Daisy Bell",
+      "difficulty": "medium",
+      "categoryIds": [
+        "romance"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 1,
+      "isHidden": false,
+      "midi": "songs/daisy-bell.mid",
+      "artwork": "artwork/daisy-bell.jpg"
+    },
+    {
+      "id": "minuet-in-g",
+      "title": "Minuet in G",
+      "difficulty": "medium",
+      "categoryIds": [
+        "classical"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/minuet-in-g.mid",
+      "artwork": "artwork/minuet-in-g.jpg"
+    },
+    {
+      "id": "canon-in-d",
+      "title": "Canon in D",
+      "difficulty": "medium",
+      "categoryIds": [
+        "classical",
+        "romance"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/canon-in-d.mid",
+      "artwork": "artwork/canon-in-d.jpg"
+    },
+    {
+      "id": "sonatina-in-g",
+      "title": "Sonatina in G",
+      "difficulty": "medium",
+      "categoryIds": [
+        "classical"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/sonatina-in-g.mid",
+      "artwork": "artwork/sonatina-in-g.jpg"
+    },
+    {
+      "id": "beethoven-5th",
+      "title": "Beethoven 5th Symphony",
+      "difficulty": "medium",
+      "categoryIds": [
+        "classical"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/beethoven-5th.mid",
+      "artwork": "artwork/beethoven-5th.jpg"
+    },
+    {
+      "id": "imagine",
+      "title": "Imagine",
+      "difficulty": "medium",
+      "categoryIds": [
+        "inspirational",
+        "global"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/imagine.mid",
+      "artwork": "artwork/imagine.jpg"
+    },
+    {
+      "id": "let-it-go",
+      "title": "Let It Go",
+      "difficulty": "medium",
+      "categoryIds": [
+        "movies"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/let-it-go.mid",
+      "artwork": "artwork/let-it-go.jpg"
+    },
+    {
+      "id": "build-a-snowman",
+      "title": "Do You Want to Build a Snowman?",
+      "difficulty": "hard",
+      "categoryIds": [
+        "movies",
+        "celebration"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/build-a-snowman.mid",
+      "artwork": "artwork/build-a-snowman.jpg"
+    },
+    {
+      "id": "all-i-want-for-christmas",
+      "title": "All I Want for Christmas Is You",
+      "difficulty": "hard",
+      "categoryIds": [
+        "celebration",
+        "global"
+      ],
+      "isPremium": false,
+      "isFeatured": true,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/all-i-want-for-christmas.mid",
+      "artwork": "artwork/all-i-want-for-christmas.jpg"
+    },
+    {
+      "id": "last-christmas",
+      "title": "Last Christmas",
+      "difficulty": "medium",
+      "categoryIds": [
+        "celebration",
+        "romance"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/last-christmas.mid",
+      "artwork": "artwork/last-christmas.jpg"
+    },
+    {
+      "id": "cant-help-falling",
+      "title": "Can't Help Falling in Love",
+      "difficulty": "medium",
+      "categoryIds": [
+        "romance",
+        "ballads"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/cant-help-falling.mid",
+      "artwork": "artwork/cant-help-falling.jpg"
+    },
+    {
+      "id": "perfect",
+      "title": "Perfect",
+      "difficulty": "medium",
+      "categoryIds": [
+        "romance",
+        "global"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/perfect.mid",
+      "artwork": "artwork/perfect.jpg"
+    },
+    {
+      "id": "all-of-me",
+      "title": "All Of Me",
+      "difficulty": "medium",
+      "categoryIds": [
+        "romance"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/all-of-me.mid",
+      "artwork": "artwork/all-of-me.jpg"
+    },
+    {
+      "id": "someone-like-you",
+      "title": "Someone Like You",
+      "difficulty": "easy",
+      "categoryIds": [
+        "ballads"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/someone-like-you.mid",
+      "artwork": "artwork/someone-like-you.jpg"
+    },
+    {
+      "id": "call-me-maybe",
+      "title": "Call Me Maybe",
+      "difficulty": "medium",
+      "categoryIds": [
+        "viral",
+        "global"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 3,
+      "isHidden": false,
+      "midi": "songs/call-me-maybe.mid",
+      "artwork": "artwork/call-me-maybe.jpg"
+    },
+    {
+      "id": "fur-elise",
+      "title": "Fur Elise",
+      "difficulty": "hard",
+      "categoryIds": [
+        "classical"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/fur-elise.mid",
+      "artwork": "artwork/fur-elise.jpg"
+    },
+    {
+      "id": "how-its-done",
+      "title": "How It's Done",
+      "difficulty": "medium",
+      "categoryIds": [
+        "viral",
+        "movies"
+      ],
+      "isPremium": true,
+      "isFeatured": true,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/how-its-done.mid",
+      "artwork": "artwork/how-its-done.jpg"
+    },
+    {
+      "id": "shape-of-you",
+      "title": "Shape of You",
+      "difficulty": "hard",
+      "categoryIds": [
+        "viral",
+        "global"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/shape-of-you.mid",
+      "artwork": "artwork/shape-of-you.jpg"
+    },
+    {
+      "id": "snowman",
+      "title": "Snowman",
+      "difficulty": "medium",
+      "categoryIds": [
+        "celebration",
+        "global"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/snowman.mid",
+      "artwork": "artwork/snowman.jpg"
+    },
+    {
+      "id": "kiss-the-rain",
+      "title": "Kiss the Rain",
+      "difficulty": "easy",
+      "categoryIds": [
+        "romance",
+        "inspirational"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/kiss-the-rain.mid",
+      "artwork": "artwork/kiss-the-rain.jpg"
+    },
+    {
+      "id": "you-are-the-reason",
+      "title": "You Are the Reason",
+      "difficulty": "hard",
+      "categoryIds": [
+        "ballads",
+        "romance"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/you-are-the-reason.mid",
+      "artwork": "artwork/you-are-the-reason.jpg"
+    },
+    {
+      "id": "la-campanella",
+      "title": "La Campanella",
+      "difficulty": "medium",
+      "categoryIds": [
+        "classical"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/la-campanella.mid",
+      "artwork": "artwork/la-campanella.jpg"
+    },
+    {
+      "id": "a-thousand-years",
+      "title": "A Thousand Years part 2",
+      "difficulty": "medium",
+      "categoryIds": [
+        "romance"
+      ],
+      "isPremium": false,
+      "isFeatured": true,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/a-thousand-years.mid",
+      "artwork": "artwork/a-thousand-years.jpg"
+    },
+    {
+      "id": "apt",
+      "title": "APT",
+      "difficulty": "easy",
+      "categoryIds": [
+        "viral"
+      ],
+      "isPremium": false,
+      "isFeatured": true,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/apt.mid",
+      "artwork": "artwork/apt.jpg"
+    },
+    {
+      "id": "clair-de-lune",
+      "title": "Clair De Lune",
+      "difficulty": "hard",
+      "categoryIds": [
+        "classical"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/clair-de-lune.mid",
+      "artwork": "artwork/clair-de-lune.jpg"
+    },
+    {
+      "id": "easy-on-me",
+      "title": "Easy On Me",
+      "difficulty": "hard",
+      "categoryIds": [
+        "ballads"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/easy-on-me.mid",
+      "artwork": "artwork/easy-on-me.jpg"
+    },
+    {
+      "id": "shallow",
+      "title": "Shallow",
+      "difficulty": "easy",
+      "categoryIds": [
+        "ballads",
+        "movies"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/shallow.mid",
+      "artwork": "artwork/shallow.jpg"
+    },
+    {
+      "id": "faded",
+      "title": "Faded",
+      "difficulty": "medium",
+      "categoryIds": [
+        "global"
+      ],
+      "isPremium": false,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/faded.mid",
+      "artwork": "artwork/faded.jpg"
+    },
+    {
+      "id": "harry-potter",
+      "title": "Harry Potter Theme",
+      "difficulty": "hard",
+      "categoryIds": [
+        "movies"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/harry-potter.mid",
+      "artwork": "artwork/harry-potter.jpg"
+    },
+    {
+      "id": "river-flows",
+      "title": "River Flows In You",
+      "difficulty": "hard",
+      "categoryIds": [
+        "classical",
+        "inspirational"
+      ],
+      "isPremium": true,
+      "isFeatured": false,
+      "requiredCompletions": 0,
+      "isHidden": false,
+      "midi": "songs/river-flows.mid",
+      "artwork": "artwork/river-flows.jpg"
+    }
+  ]
+}
