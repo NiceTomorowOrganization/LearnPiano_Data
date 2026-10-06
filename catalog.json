@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "baseUrl": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/LearnPiano_Data@main/",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/NiceTomorowOrganization/LearnPiano_Data@v1.0.0/",
   "categories": [
     {
       "id": "beginners",
