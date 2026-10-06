@@ -22,6 +22,6 @@ the sources there and export again rather than editing these files by hand.
   tag is how changed files reach users.
 * `songs[].isHidden` / `categories[].isHidden` — `true` leaves the entry out
   of every list in the app without deleting it.
-* `songs[].isPremium`, `requiredCompletions`, `isFeatured`, `difficulty`
+* `songs[].isPremium` (locked: opens with premium or a rewarded ad), `isFeatured`, `difficulty`
   (`easy` / `medium` / `hard`), `categoryIds` — as in the app.
 * `midi`, `artwork` — paths under `baseUrl`, or full URLs.

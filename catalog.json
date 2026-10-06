@@ -58,7 +58,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/twinkle.mid",
       "artwork": "artwork/twinkle.jpg"
@@ -72,7 +71,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/mary-lamb.mid",
       "artwork": "artwork/mary-lamb.jpg"
@@ -87,7 +85,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/happy-birthday.mid",
       "artwork": "artwork/happy-birthday.jpg"
@@ -102,7 +99,6 @@
       ],
       "isPremium": false,
       "isFeatured": true,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/ode-to-joy.mid",
       "artwork": "artwork/ode-to-joy.jpg"
@@ -116,7 +112,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/row-your-boat.mid",
       "artwork": "artwork/row-your-boat.jpg"
@@ -130,7 +125,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/abc-song.mid",
       "artwork": "artwork/abc-song.jpg"
@@ -144,7 +138,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/baa-baa-black-sheep.mid",
       "artwork": "artwork/baa-baa-black-sheep.jpg"
@@ -159,7 +152,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/baby-shark.mid",
       "artwork": "artwork/baby-shark.jpg"
@@ -171,9 +163,8 @@
       "categoryIds": [
         "beginners"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/london-bridge.mid",
       "artwork": "artwork/london-bridge.jpg"
@@ -185,9 +176,8 @@
       "categoryIds": [
         "celebration"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/jingle-bells.mid",
       "artwork": "artwork/jingle-bells.jpg"
@@ -199,9 +189,8 @@
       "categoryIds": [
         "beginners"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/little-teapot.mid",
       "artwork": "artwork/little-teapot.jpg"
@@ -214,9 +203,8 @@
         "beginners",
         "celebration"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/if-youre-happy.mid",
       "artwork": "artwork/if-youre-happy.jpg"
@@ -228,9 +216,8 @@
       "categoryIds": [
         "celebration"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/santa-claus.mid",
       "artwork": "artwork/santa-claus.jpg"
@@ -242,9 +229,8 @@
       "categoryIds": [
         "inspirational"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/amazing-grace.mid",
       "artwork": "artwork/amazing-grace.jpg"
@@ -257,9 +243,8 @@
         "viral",
         "global"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/bella-ciao.mid",
       "artwork": "artwork/bella-ciao.jpg"
@@ -271,9 +256,8 @@
       "categoryIds": [
         "romance"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 1,
       "isHidden": false,
       "midi": "songs/daisy-bell.mid",
       "artwork": "artwork/daisy-bell.jpg"
@@ -285,9 +269,8 @@
       "categoryIds": [
         "classical"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/minuet-in-g.mid",
       "artwork": "artwork/minuet-in-g.jpg"
@@ -300,9 +283,8 @@
         "classical",
         "romance"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/canon-in-d.mid",
       "artwork": "artwork/canon-in-d.jpg"
@@ -314,9 +296,8 @@
       "categoryIds": [
         "classical"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/sonatina-in-g.mid",
       "artwork": "artwork/sonatina-in-g.jpg"
@@ -328,9 +309,8 @@
       "categoryIds": [
         "classical"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/beethoven-5th.mid",
       "artwork": "artwork/beethoven-5th.jpg"
@@ -343,9 +323,8 @@
         "inspirational",
         "global"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/imagine.mid",
       "artwork": "artwork/imagine.jpg"
@@ -357,9 +336,8 @@
       "categoryIds": [
         "movies"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/let-it-go.mid",
       "artwork": "artwork/let-it-go.jpg"
@@ -372,9 +350,8 @@
         "movies",
         "celebration"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/build-a-snowman.mid",
       "artwork": "artwork/build-a-snowman.jpg"
@@ -387,9 +364,8 @@
         "celebration",
         "global"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": true,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/all-i-want-for-christmas.mid",
       "artwork": "artwork/all-i-want-for-christmas.jpg"
@@ -402,9 +378,8 @@
         "celebration",
         "romance"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/last-christmas.mid",
       "artwork": "artwork/last-christmas.jpg"
@@ -417,9 +392,8 @@
         "romance",
         "ballads"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/cant-help-falling.mid",
       "artwork": "artwork/cant-help-falling.jpg"
@@ -432,9 +406,8 @@
         "romance",
         "global"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/perfect.mid",
       "artwork": "artwork/perfect.jpg"
@@ -446,9 +419,8 @@
       "categoryIds": [
         "romance"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/all-of-me.mid",
       "artwork": "artwork/all-of-me.jpg"
@@ -460,9 +432,8 @@
       "categoryIds": [
         "ballads"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/someone-like-you.mid",
       "artwork": "artwork/someone-like-you.jpg"
@@ -475,9 +446,8 @@
         "viral",
         "global"
       ],
-      "isPremium": false,
+      "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 3,
       "isHidden": false,
       "midi": "songs/call-me-maybe.mid",
       "artwork": "artwork/call-me-maybe.jpg"
@@ -491,7 +461,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/fur-elise.mid",
       "artwork": "artwork/fur-elise.jpg"
@@ -506,7 +475,6 @@
       ],
       "isPremium": true,
       "isFeatured": true,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/how-its-done.mid",
       "artwork": "artwork/how-its-done.jpg"
@@ -521,7 +489,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/shape-of-you.mid",
       "artwork": "artwork/shape-of-you.jpg"
@@ -536,7 +503,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/snowman.mid",
       "artwork": "artwork/snowman.jpg"
@@ -551,7 +517,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/kiss-the-rain.mid",
       "artwork": "artwork/kiss-the-rain.jpg"
@@ -566,7 +531,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/you-are-the-reason.mid",
       "artwork": "artwork/you-are-the-reason.jpg"
@@ -580,7 +544,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/la-campanella.mid",
       "artwork": "artwork/la-campanella.jpg"
@@ -594,7 +557,6 @@
       ],
       "isPremium": false,
       "isFeatured": true,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/a-thousand-years.mid",
       "artwork": "artwork/a-thousand-years.jpg"
@@ -608,7 +570,6 @@
       ],
       "isPremium": false,
       "isFeatured": true,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/apt.mid",
       "artwork": "artwork/apt.jpg"
@@ -622,7 +583,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/clair-de-lune.mid",
       "artwork": "artwork/clair-de-lune.jpg"
@@ -636,7 +596,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/easy-on-me.mid",
       "artwork": "artwork/easy-on-me.jpg"
@@ -651,7 +610,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/shallow.mid",
       "artwork": "artwork/shallow.jpg"
@@ -665,7 +623,6 @@
       ],
       "isPremium": false,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/faded.mid",
       "artwork": "artwork/faded.jpg"
@@ -679,7 +636,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/harry-potter.mid",
       "artwork": "artwork/harry-potter.jpg"
@@ -694,7 +650,6 @@
       ],
       "isPremium": true,
       "isFeatured": false,
-      "requiredCompletions": 0,
       "isHidden": false,
       "midi": "songs/river-flows.mid",
       "artwork": "artwork/river-flows.jpg"
